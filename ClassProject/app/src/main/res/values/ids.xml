@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="seekbar1" type="id">progress</item>
+    <item name="Increment" type="id">Increment</item>
+</resources>
